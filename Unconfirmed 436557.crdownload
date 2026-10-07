@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  TODO before going live: replace https://your-domain.com/ below with the
+  site's real, final domain (same placeholder used in index.html and
+  robots.txt).
+
+  This site is currently a single HTML page, so this sitemap lists exactly
+  one real URL. The in-page sections (#academy, #digital, #about, #contact,
+  #pricing) are anchors within that one page, not separate crawlable URLs,
+  so they are intentionally not listed here. If dedicated pages such as
+  /academy or /digital are built later (see the internal-linking notes in
+  the audit report), add their real URLs here at that time rather than in
+  advance.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://your-domain.com/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

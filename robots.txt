@@ -1,0 +1,8 @@
+# TODO before going live: replace https://your-domain.com/ below with the
+# site's real, final domain (same placeholder used in index.html and
+# sitemap.xml — see the TODO comment in index.html's <head>).
+
+User-agent: *
+Allow: /
+
+Sitemap: https://your-domain.com/sitemap.xml
